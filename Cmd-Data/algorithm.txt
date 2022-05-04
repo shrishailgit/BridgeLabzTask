@@ -1,0 +1,10 @@
+*using for loop we can display the files
+   using for loop and awk to display the file names
+1: using for loop to read in each file with ext.files
+2: staing the loop with do
+3:using awk to read the file name into foldername
+4: making directory with the file name
+5:coping the file into the folder using $folderName
+6:display the result to stdout
+7:indicating done to close for loop
+  displaying the file in current folder and the new folder created by the for loop 
